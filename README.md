@@ -1,3 +1,6 @@
+
+KEY: Well done! Correct!
+
 # Daily Question - JavaScript Try/Catch
 
 ### Try/Catch/Throw
